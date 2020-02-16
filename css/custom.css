@@ -6,3 +6,17 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.bgportfolio{
+  /* height: 100vh; */
+  min-height: 400px;
+  background-color: salmon;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.footer-margin {
+  height: 100px;
+  background-color: #fec02f;
+}
